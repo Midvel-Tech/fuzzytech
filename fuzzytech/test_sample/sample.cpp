@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "src/fuzzyset/fuzzyset.h"
+#include <fuzzyset.h>
 
 int main()
 {
